@@ -1,0 +1,31 @@
+_repo: Olviretki-Schleusingeniss---Leo-ja-Liina--Alma_12824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivi, Aleksis
+    aliases:
+    - Stenvall, Aleksis
+    - Kiwi, Aleksis
+    - Kivi, Alexis
+    birthdate: 1834
+    deathdate: 1872
+    gutenberg_agent_id: '3865'
+    url: http://www.gutenberg.org/2009/agents/3865
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Aleksis_Kivi
+    - http://en.wikipedia.org/wiki/Aleksis_Kivi
+description: ''
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12824'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: Olviretki Schleusingenissä; Leo ja Liina; Alma
+url: http://www.gutenberg.org/ebooks/12824
