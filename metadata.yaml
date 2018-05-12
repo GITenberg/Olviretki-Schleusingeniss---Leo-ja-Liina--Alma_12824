@@ -1,5 +1,8 @@
 _repo: Olviretki-Schleusingeniss---Leo-ja-Liina--Alma_12824
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kivi, Aleksis
@@ -15,6 +18,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Aleksis_Kivi
     - http://en.wikipedia.org/wiki/Aleksis_Kivi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12824#Olviretki-Schleusingeniss---Leo-ja-Liina--Alma
 gutenberg_issued: '2004-07-05'
 gutenberg_type: Text
 identifiers:
